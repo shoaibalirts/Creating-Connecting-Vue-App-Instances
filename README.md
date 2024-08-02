@@ -1,1 +1,1 @@
-# Creating and Connecting Vue App Instances
+# VUE Essentials
